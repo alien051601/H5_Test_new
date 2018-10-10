@@ -1,0 +1,5 @@
+[
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_1_open_account",
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_2_open_account",
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_3_set_buypassworld"
+]

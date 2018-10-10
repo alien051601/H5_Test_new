@@ -1,0 +1,11 @@
+{
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_1_login": true,
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_1_open_account": true,
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_2_open_account": true,
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_3_set_buypassworld": true,
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_4_recharge": true,
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_5_open_autobuy": true,
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_6_input_buypassworld": true,
+  "MainCase/Test03_OpenAccount.py::OpenAccount::test_7_buy": true,
+  "MainCase/Test06_buy_borrow.py::BuyBorrow::test_1_login": true
+}
