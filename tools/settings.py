@@ -30,17 +30,10 @@ API_TEST_BASE_URL = "https://hlwm-test.chinazyjr.net/"
 
 
 # mysql--test config
-DB_HOST = '192.168.7.233'
+DB_HOST = '192.168.xxx.xxx'
 DB_PORT = '60220'
 DB_USER = 'test'
-DB_PASSWORD = 'U7rhUEvcD2ScIvkuVgIKn06aZ783u1YR'
-
-
-# mysql--testgl config
-# DB_HOST = '192.168.7.214'
-# DB_PORT = '60214'
-# DB_USER = 'testd'
-# DB_PASSWORD = 'testd'
+DB_PASSWORD = 'password'
 
 # driver = webdriver.Firefox(executable_path='D:\Program Files\Mozilla Firefox\geckodriver.exe')
 # driver.get("http://hlw-test.chinazyjr.net/")
